@@ -1,5 +1,5 @@
 Autor: Elias Cuin
-Zweites BLL-Projekt: "Hydravion"
+Zweites BLL-Projekt: "Hydravion-KI"
 
 #___ Python-Abhängigkeiten ___
 
@@ -12,4 +12,4 @@ Für das Starten des Programms muss Tensorflow, Python und PyGame heruntergelade
 
 #___ Starten des Programmiercodes ___
 
-  Siehe: "Bedienung des Programmiercodes" unter Kapitel. 4.2.7 der BLL
+  Siehe: "Bedienung des Programmiercodes" unter Kapitel 4.2.7 der BLL

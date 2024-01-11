@@ -12,4 +12,4 @@ Für das Starten des Programms muss Tensorflow, Python und PyGame heruntergelade
 
 #___ Starten des Programmiercodes ___
 
-  Siehe: "Bedienung des Programmiercodes" unter Kapitel. 4.1.6 der BLL
+  Siehe: "Bedienung des Programmiercodes" unter Kapitel. 4.2.7 der BLL
